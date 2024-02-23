@@ -98,7 +98,7 @@ function App() {
       </div>
 
       <div id='history'>
-        <h3>Lista</h3>
+        <h3>Historial</h3>
         {notas.length === 0 ? (
           "No hay ninguna operacion realizada"
         ) : (
